@@ -35,7 +35,6 @@ public class ToaDo {
             }
         }
         return n;
-
     }
     public double KhoangCach(ToaDo B){
         return sqrt(pow((this.x + B.x),2) + pow((this.y - B.y),2));
