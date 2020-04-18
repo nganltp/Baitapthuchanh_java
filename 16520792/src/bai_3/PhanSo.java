@@ -1,12 +1,16 @@
 package bai_3;
 
 public class PhanSo {
-    private int tu, mau;
+    protected int tu, mau;
 
     public PhanSo(int tu, int mau) {
         super();
         this.tu = tu;
         this.mau = mau;
+    }
+
+    public PhanSo() {
+
     }
 
     public int getTu() {
