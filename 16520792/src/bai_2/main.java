@@ -33,6 +33,6 @@ public class main {
         int canh3 = input.nextInt();
         TamGiac htg = new TamGiac(canh1, canh2, canh3);
         System.out.println("Chu Vi hinh tam giac: " + htg.tinhChuVi());
-        
+
     }
 }
