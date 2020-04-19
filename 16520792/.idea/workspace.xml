@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="785ee88d-bfb9-4308-ac0e-57e8befd3245" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_6/main_b6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_6/main_b6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/bai_7" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,6 +71,7 @@
       <updated>1587178907115</updated>
       <workItem from="1587178908972" duration="3909000" />
       <workItem from="1587183033767" duration="13778000" />
+      <workItem from="1587296958578" duration="241000" />
     </task>
     <servers />
   </component>
@@ -128,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/-1366.446.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587222804165" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587183037725">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587297065878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1366.446.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587183037725" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1366.446.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587297065878" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1587183363335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
