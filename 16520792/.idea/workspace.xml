@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="785ee88d-bfb9-4308-ac0e-57e8befd3245" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai_7/AmaraMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_7/AmaraMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai_7/FlowerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_7/FlowerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai_7/PhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_7/PhoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai_7/ServiceAmara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_7/ServiceAmara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai_7/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_7/VehicleService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +40,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UIT\LapTrinhJava\BT\Baitapthuchanh_java\16520792\src\bai_7" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -71,7 +81,7 @@
       <updated>1587178907115</updated>
       <workItem from="1587178908972" duration="3909000" />
       <workItem from="1587183033767" duration="13778000" />
-      <workItem from="1587296958578" duration="241000" />
+      <workItem from="1587296958578" duration="584000" />
     </task>
     <servers />
   </component>

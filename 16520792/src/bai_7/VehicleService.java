@@ -5,10 +5,6 @@
  */
 package bai_7;
 
-/**
- *
- * @author MinhCht
- */
 public class VehicleService {
     private float amount = 0;
     private float price = 0;

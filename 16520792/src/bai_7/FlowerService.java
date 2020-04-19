@@ -5,10 +5,7 @@
  */
 package bai_7;
 
-/**
- *
- * @author MinhCht
- */
+
 public class FlowerService {
     float amount = 0;
     float price = 0;

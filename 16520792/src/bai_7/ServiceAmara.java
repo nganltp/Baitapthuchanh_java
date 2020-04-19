@@ -7,10 +7,6 @@ package bai_7;
 
 import java.util.Scanner;
 
-/**
- *
- * @author MinhCht
- */
 public class ServiceAmara {
 
     /**

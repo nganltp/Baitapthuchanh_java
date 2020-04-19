@@ -5,10 +5,6 @@
  */
 package bai_7;
 
-/**
- *
- * @author MinhCht
- */
 public class PhoneService {
     float amount = 0;
     float price = 0;

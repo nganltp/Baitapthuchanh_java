@@ -11,10 +11,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- *
- * @author MinhCht
- */
 public class AmaraMng {
     FlowerService flowerService = new FlowerService();
     PhoneService phoneService = new PhoneService();
